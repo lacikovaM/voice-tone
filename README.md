@@ -16,7 +16,7 @@
 <tr>
     <td> energetic and enthusiastic about things I love,
         huge  passion towards my hobbies  </td>
-    <td> dull , and not interested in anything  </td>
+    <td> dull, and not interested in anything  </td>
 </tr>
 <tr>
     <td> My workflow takes a bit of time cause I need
@@ -24,7 +24,7 @@
         chaotic way of doing things.
         If I take more time for the project, the result
         ends up in better quality,
-    <td> dull , and not interested in anything  </td>
+    <td> rushed and unorganised </td>
 </tr>
   
 </table>
